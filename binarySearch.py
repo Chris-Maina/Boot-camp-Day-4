@@ -15,7 +15,7 @@ class BinarySearch(list):
 
 	#defining search method that performs binary search. 
 	#Number to find = searchNumber
-	def search (sel , searchNumber):
+	def search (self , searchNumber):
 		"""
 		Returns : dict of the form {'count':int,'index':int}
 		          index of the search value 
