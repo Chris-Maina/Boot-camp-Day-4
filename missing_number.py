@@ -18,14 +18,15 @@ def find_missing(arr1,arr2):
 	
 
 	
-
+"""
 def main():
 	#list1 = find_missing([2], [2])
-	list2 = find_missing([4, 6, 8], [4, 6, 8, 10])
+	#list2 = find_missing([4, 6, 8], [4, 6, 8, 10])
 	#list3 = find_missing([5, 4, 7, 6, 11, 66], [5, 4, 1, 7, 6, 11, 66])
-	print list2
+	#print list2
 
 	#find_missing([list1,list2,list3])
 
 if __name__ == '__main__':
 		main()
+"""
